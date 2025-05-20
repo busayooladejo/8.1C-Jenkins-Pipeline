@@ -29,5 +29,6 @@ This repo is connected to Jenkins and configured to trigger a new pipeline build
 ## Author
 
 **Name:** Busayo Oladejo
-** Sudent ID**: 224665671
+**Student ID:** 224665671
+**Course:** SIT753
 
